@@ -1,0 +1,11 @@
+Q1) what is a repository? and how it is different from a branch?
+Ans=> 
+A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
+
+
+A branch is a version of your repository, or in other words, an independent line of development.
+
+A repository can contain multiple branches, which means there are multiple versions of the repository
+
+
+
