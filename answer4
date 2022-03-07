@@ -1,0 +1,11 @@
+Q4)What is git Stash, Pop and apply. The diff between these?
+
+git stash => store the files in a temporary location
+
+
+to add these files from temporary location 
+- git stash pop =>it adds last change to the repo
+- git stash apply => we can decide which cange to move to repo
+
+
+
